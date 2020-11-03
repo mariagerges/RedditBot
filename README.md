@@ -17,4 +17,6 @@ Link for the favorite Thread that include a comment from my bot: https://www.red
 
 This my favorite because my comment exactly oppose the statement claimed by the other bot and the conversation also ties to politics, which is defintely related to the main post topic. 
 
+**counter output**
+
 ```bla bla bla```
