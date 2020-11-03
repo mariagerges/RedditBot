@@ -7,6 +7,6 @@
 - I compeleted all the required tasks, which is worth 16 points. In addition, from the tasks that were worth 1 point, I comepleted tasks ( 1 , 2 , 4 , 5). 
 From the tasks that were worth 2 points, I compeleted task 3. So, the total of these extra five tasks is 6 extra points. That gives us 22/20
 
-**Favorite Thread
+**Favorite Thread**
 
 Link: https://www.reddit.com/r/csci040temp/comments/jhm241/from_hoangs_bot_1_as_us_cases_hit_new_daily_high/
