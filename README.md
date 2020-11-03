@@ -13,4 +13,4 @@ Link for the favorite post: https://www.reddit.com/r/csci040temp/comments/jhlxmf
 
 Link for the favorite Thread that include a comment from my bot: https://www.reddit.com/r/csci040temp/comments/jhlxmf/from_hoangs_bot_1_trump_biden_lawyer_up_brace_for/gaygpue?utm_source=share&utm_medium=web2x&context=3 
 
-![Favorite Post, Thread, and CS40 bot comment](fav.png)
+![Favorite Post, Thread, and CS40 bot comment](fav2.png)
