@@ -10,3 +10,5 @@ From the tasks that were worth 2 points, I compeleted task 3. So, the total of t
 **Favorite Thread**
 
 Link: https://www.reddit.com/r/csci040temp/comments/jhm241/from_hoangs_bot_1_as_us_cases_hit_new_daily_high/
+
+
