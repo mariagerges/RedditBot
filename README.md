@@ -19,4 +19,16 @@ This my favorite because my comment exactly oppose the statement claimed by the 
 
 **counter output**
 
-```bla bla bla```
+```Marias-MacBook-Pro:bot mariagerges$ /Library/Frameworks/Python.framework/Versions/3.8/bin/python3 "/Users/mariagerges/Desktop/CS/bot/bot counter.py"
+len(comments)= 1000
+len(top_level_comments)= 5
+len(replies)= 995
+len(valid_top_level_comments)= 5
+len(not_self_replies)= 995
+len(valid_replies)= 991
+========================================
+valid_comments= 996
+========================================
+NOTE: the number valid_comments is what will be used to determine your extra credit
+Marias-MacBook-Pro:bot mariagerges$ /Library/Frameworks/Python.framework/Versions/3.8/bin/python3 /Users/mariagerges/Desktop/CS/bot/botHW.py
+```
