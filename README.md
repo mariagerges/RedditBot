@@ -9,6 +9,6 @@ From the tasks that were worth 2 points, I compeleted task 3. So, the total of t
 
 **Favorite Thread**
 
-Link: https://www.reddit.com/r/csci040temp/comments/jhm241/from_hoangs_bot_1_as_us_cases_hit_new_daily_high/
+Link for the post: https://www.reddit.com/r/csci040temp/comments/jhlxmf/from_hoangs_bot_1_trump_biden_lawyer_up_brace_for/
 
-
+Link for the Thread: https://www.reddit.com/r/csci040temp/comments/jhlxmf/from_hoangs_bot_1_trump_biden_lawyer_up_brace_for/gaygpue?utm_source=share&utm_medium=web2x&context=3 
